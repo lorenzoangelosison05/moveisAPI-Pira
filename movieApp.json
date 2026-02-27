@@ -1,0 +1,13 @@
+{
+    "endpoints": {
+        "login":"https://moveisapi-pira.onrender.com/login",
+        "register":"https://moveisapi-pira.onrender.com/register",
+        "addMovie": "https://moveisapi-pira.onrender.com/addMovie",
+        "getAllMovies":"https://moveisapi-pira.onrender.com/getMovies",
+        "getMovieById":"https://moveisapi-pira.onrender.com/getMovie",
+        "updateMovie":"https://moveisapi-pira.onrender.com/updateMovie",
+        "deleteMovie":"https://moveisapi-pira.onrender.com/deleteMovie",
+        "addMovieComment":"https://moveisapi-pira.onrender.com/addComment",
+        "getMovieComments":"https://moveisapi-pira.onrender.com/getComments"
+    }
+}
